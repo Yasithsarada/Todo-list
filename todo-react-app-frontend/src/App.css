@@ -1,0 +1,12 @@
+.off-bullets {
+    list-style-type: none;
+  }
+.btn_set {
+  float: right;
+}
+#navbar-brand {
+  margin-left:20px;
+}
+* {
+  background-image: url("");
+}
